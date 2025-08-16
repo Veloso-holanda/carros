@@ -100,10 +100,6 @@ Contribuições são bem-vindas! Para contribuir:
    ```
 5. Abra um Pull Request e aguarde revisão.
 
-## Licença
-
-Este projeto ainda **não possui licença definida**. Para garantir clareza jurídica sobre uso e distribuição, considere adicionar um arquivo `LICENSE` (por exemplo, MIT, Apache‑2.0 ou similar).
-
 ## Contato
 
 Desenvolvido por [Gabriel Veloso de Souza] (Veloso‑holanda).  
